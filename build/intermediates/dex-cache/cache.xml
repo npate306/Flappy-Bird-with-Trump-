@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neel Patel\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\Neel Patel\Documents\Game\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_ef92e6406cae89fb8840588b0ed4993954cc3af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neel Patel\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\Neel Patel\Documents\Game\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_d0ada0bb351a574543e43dc3580b30809f0aa6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neel Patel\Documents\Game\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e4ad18a6ecbfa288ee40374ec58d3fa104a3c27">
+        <dex dex="C:\Users\Neel Patel\Documents\Game\android\build\intermediates\pre-dexed\debug\core-1.0_4ca5dff820d566233c58aaca93c6e3bc4ed0eb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neel Patel\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\Neel Patel\Documents\Game\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_5ae60610d132eb9a2745a3a857129a843404fe97.jar" />
+    </item>
+
+</items>
